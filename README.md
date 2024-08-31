@@ -3,4 +3,3 @@
 - ### I have completed my O'Levels from ST. Paul's English High School.
 - ### I have completed my A'Levels from Cedar College.
 - ### I am doing BSSE from Fast University.
-- 
