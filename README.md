@@ -1,1 +1,6 @@
-# 24K-3040
+- ### My name is Talha Ali Khan.
+- ### I am 19 Years old.
+- ### I have completed my O'Levels from ST. Paul's English High School.
+- ### I have completed my A'Levels from Cedar College.
+- ### I am doing BSSE from Fast University.
+- 
