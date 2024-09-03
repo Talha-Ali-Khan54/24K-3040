@@ -1,4 +1,3 @@
-Feature
 # Pf_LAB 03
 ### INTRODUCTION TO C LANGUAGE.
 # 24K-3040
